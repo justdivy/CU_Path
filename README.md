@@ -1,23 +1,3 @@
-🎓 Chandigarh University Smart Navigator
+<p align="center"> <img src="https://img.shields.io/badge/Chandigarh%20University-Smart%20Navigator-red?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Tech-React%20%7C%20Tailwind%20CSS-blue?style=for-the-badge"> </p>
 
-A lightweight and interactive web application that helps students, visitors, and freshers navigate Chandigarh University’s vast campus. From academic blocks to food courts, hostels, and bus stands, this tool offers pinpointed navigation with a smooth interface.
-
-🌟 Features
-
-🗺️ Real-time interactive campus map
-
-📍 Location markers for blocks, hostels, departments, and hotspots
-
-🔍 Smart search (find places instantly)
-
-🧭 Auto-route suggestions for easy navigation
-
-📱 Fully responsive layout for mobile and desktop
-
-⚡ Built using modern web technologies
-
-🛠️ Tech Stack
-Layer	Tools
-Frontend	React, Tailwind CSS, Leaflet.js / Mapbox
-Backend (optional)	Node.js, Express
-Map Data	OpenStreetMap / Custom CU map
+A clean and interactive web application that helps students, freshers, and visitors navigate Chandigarh University with ease. The Smart Navigator acts like a friendly digital guide, offering quick access to academic blocks, hostels, food spots, departments, and campus services through a smooth, map-based interface.
