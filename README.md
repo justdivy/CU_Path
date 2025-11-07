@@ -1,7 +1,5 @@
-<p align="center"> <img src="https://img.shields.io/badge/Project-CU%20Smart%20Navigator-9C27B0?style=for-the-badge&logo=googlemaps&logoColor=white"> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"> <img src="https://img.shields.io/badge/Made%20With-React%20%7C%20TailwindCSS-blue?style=for-the-badge"> </p>
-
-A compact campus companion crafted to help students and visitors explore Chandigarh University with clarity and confidence.
-Think of it as a pocket-sized pathfinder guiding you across blocks, hostels, cafés, and every bustling corner of CU.
+🌐Chandigarh University Smart Navigator
+<p align="center"> <img height="180" src="https://img.icons8.com/color/452/map.png"/> </p> <p align="center"> <strong>A clean, modern, map-based navigation system crafted for Chandigarh University.</strong> </p> <p align="center"> <img src="https://img.shields.io/badge/React-18.0-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/TailwindCSS-3.0-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/Leaflet-Map-199900?style=for-the-badge&logo=leaflet&logoColor=white"> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"> </p>
 
 📘 About the Project
 
