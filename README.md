@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="docs/cu-logo.png" alt="Chandigarh University Logo" width="260">
-</p>
 
 <h1 align="center">🌐 Chandigarh University Smart Navigator</h1>
 
