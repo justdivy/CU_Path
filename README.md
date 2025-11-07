@@ -51,5 +51,3 @@ Quick load times with minimal overhead.
 | Build Tool | Vite |
 
 ---
-
-## 📂 Project Structure
